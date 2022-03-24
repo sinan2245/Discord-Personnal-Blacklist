@@ -1,0 +1,19 @@
+{
+  "name": "discord-js",
+  "version": "1.0.0",
+  "description": "A command and event handler for discord.js v13",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Vetlix#4336",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "mongoose": "^6.0.10",
+    "util": "^0.12.4",
+    "nodemon": "^2.0.14"
+  }
+}
